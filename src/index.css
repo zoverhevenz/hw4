@@ -1,0 +1,11 @@
+html {
+  font-family: "Pixelify Sans", cursive;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.center {
+  text-align: center;
+}
